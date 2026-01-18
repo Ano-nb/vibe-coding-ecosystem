@@ -4,6 +4,8 @@
 
 **Curating useful repositories for safe and reliable vibe coding**
 
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cmA7RkyXm6)
+
 </div>
 
 Vibe coding is wonderful, but it also comes with risks : both for the vibe coder and for the broader software ecosystem.
